@@ -4,9 +4,7 @@
  my skills in programming, documentation, and multimedia support to contribute to team success and
  continuously grow in a dynamic work environment</h3>
 
-- 🔭 I’m currently working on **Computerized Inventory with Point-of-Sale System**
-
-- 🌱 I’m currently learning **Php**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **michaelamasucol2703@gmail.com**
 
