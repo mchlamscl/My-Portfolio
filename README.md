@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Micha Ela M. Masocol</h1>
-<h3 align="center">A passionate frontend developer from Datamex Caloocan</h3>
+<h3 align="center">**A passionate frontend developer from Datamex Caloocan** A Bachelor of Science in Information Technology graduate with hands-on experience in project coordination,
+ system development, and technical support. Seeking an entry-level position in the IT industry where I can apply
+ my skills in programming, documentation, and multimedia support to contribute to team success and
+ continuously grow in a dynamic work environment</h3>
 
 - 🔭 I’m currently working on **Computerized Inventory with Point-of-Sale System**
 
