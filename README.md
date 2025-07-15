@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **michaelamasucol2703@gmail.com**
 
-- 📄 Know about my experiences ([Masocol, Micha Ela M. Resume.pdf](https://github.com/user-attachments/files/21236109/Masocol.Micha.Ela.M.Resume.pdf)
+- 📄 Know about my experiences [Masocol, Micha Ela M. Resume.pdf](https://github.com/user-attachments/files/21236109/Masocol.Micha.Ela.M.Resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
